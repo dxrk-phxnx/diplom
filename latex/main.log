@@ -1,0 +1,1495 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.2)  7 JUN 2026 01:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(./setup.tex (./vkr.cls
+Document Class: vkr VKR class
+(c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+
+(c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
+\g__graphics_track_int=\count184
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count185
+\g__pdf_backend_annotation_int=\count186
+\g__pdf_backend_link_int=\count187
+))
+Package: xparse 2024-02-18 L3 Experimental document command parser
+)
+Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count188
+\l__fontspec_language_int=\count189
+\l__fontspec_strnum_int=\count190
+\l__fontspec_tmp_int=\count191
+\l__fontspec_tmpa_int=\count192
+\l__fontspec_tmpb_int=\count193
+\l__fontspec_tmpc_int=\count194
+\l__fontspec_em_int=\count195
+\l__fontspec_emdef_int=\count196
+\l__fontspec_strong_int=\count197
+\l__fontspec_strongdef_int=\count198
+\l__fontspec_tmpa_dim=\dimen140
+\l__fontspec_tmpb_dim=\dimen141
+\l__fontspec_tmpc_dim=\dimen142
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+\pagetop=\skip48
+\pagebottom=\skip49
+\pageleft=\skip50
+\pageright=\skip51
+\pwidth=\skip52
+\pheight=\skip53
+\saved@arstrutbox=\box52
+\c@section=\count199
+\c@subsection=\count266
+\c@subsubsection=\count267
+\c@paragraph=\count268
+\c@figure=\count269
+\c@figurecnt=\count270
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\c@table=\count271
+\c@tablecnt=\count272
+\c@lastpage=\count273
+\c@числоПлакатов=\count274
+\c@bibcount=\count275
+)
+(c:/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/02/07 v24.2 The Babel package
+\babel@savecnt=\count276
+\U@D=\dimen143
+\l@unhyphenated=\language89
+
+(c:/texlive/2024/texmf-dist/tex/generic/babel/xebabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count277
+
+(c:/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language23). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language23). Reported on input line 108.
+)
+(c:/texlive/2024/texmf-dist/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+))
+(c:/texlive/2024/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
+Package babel Info: Importing font and identification data for russian
+(babel)             from babel-ru.ini. Reported on input line 11.
+)
+(c:/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(c:/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(c:/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+(c:/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(c:/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(c:/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count278
+)
+(c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count279
+)
+\@linkdim=\dimen146
+\Hy@linkcounter=\count280
+\Hy@pagecounter=\count281
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count282
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `unicode' set `true' on input line 3165.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count283
+
+(c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen147
+
+(c:/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count284
+\Field@Width=\dimen148
+\Fld@charsize=\dimen149
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count285
+\c@Item=\count286
+\c@Hfootnote=\count287
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-01-20 v7.01h Hyperref driver for XeTeX
+
+(c:/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box53
+\c@Hy@AnnotLevel=\count288
+\HyField@AnnotCount=\count289
+\Fld@listcount=\count290
+\c@bookmark@seq@number=\count291
+
+(c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(c:/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip56
+)
+(c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count292
+\float@exts=\toks18
+\float@box=\box54
+\@float@everytoks=\toks19
+\@floatcapt=\box55
+)
+(c:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(c:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+)) (./xltabular.sty
+Package: xltabular 2020/11/04 v0.2e `xltabular' package (hv,RN)
+
+(c:/texlive/2024/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+
+(c:/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen150
+\ar@mcellbox=\box56
+\extrarowheight=\dimen151
+\NC@list=\toks20
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box57
+)
+\TX@col@width=\dimen152
+\TX@old@table=\dimen153
+\TX@old@col=\dimen154
+\TX@target=\dimen155
+\TX@delta=\dimen156
+\TX@cols=\count293
+\TX@ftn=\toks21
+)
+(c:/texlive/2024/texmf-dist/tex/latex/ltablex/ltablex.sty
+Package: ltablex 2014/08/13 v1.1 Modified tabularx
+
+(c:/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip59
+\LTright=\skip60
+\LTpre=\skip61
+\LTpost=\skip62
+\LTchunksize=\count294
+\LTcapwidth=\dimen157
+\LT@head=\box58
+\LT@firsthead=\box59
+\LT@foot=\box60
+\LT@lastfoot=\box61
+\LT@gbox=\box62
+\LT@cols=\count295
+\LT@rows=\count296
+\c@LT@tables=\count297
+\c@LT@chunks=\count298
+\LT@p@ftn=\toks22
+)))
+(c:/texlive/2024/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen158
+\c@nlinenum=\count299
+\TeXr@lab=\toks23
+)
+(c:/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(c:/texlive/2024/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+
+Package array Warning: Redefining primitive column r on input line 18.
+
+(c:/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen159
+\captionmargin=\dimen160
+\caption@leftmargin=\dimen161
+\caption@rightmargin=\dimen162
+\caption@width=\dimen163
+\caption@indent=\dimen164
+\caption@parindent=\dimen165
+\caption@hangindent=\dimen166
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \sbox \@tempboxa {#1 -- #2}\ifdim \wd \@tempboxa >\hsize #1 -- #2\par \else \
+global \@minipagefalse \if \instring {Таб}{#1} \hb@xt@ \hsize {\box \@tempboxa 
+\hfil }\else \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\fi \fi \vskip \below
+captionskip  on input line 1175.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count300
+\c@continuedfloat=\count301
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+(c:/texlive/2024/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
+(c:/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip63
+\enit@outerparindent=\dimen167
+\enit@toks=\toks24
+\enit@inbox=\box63
+\enit@count@id=\count302
+\enitdp@description=\count303
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(c:/texlive/2024/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count304
+\lst@gtempboxa=\box64
+\lst@token=\toks25
+\lst@length=\count305
+\lst@currlwidth=\dimen168
+\lst@column=\count306
+\lst@pos=\count307
+\lst@lostspace=\dimen169
+\lst@width=\dimen170
+\lst@newlines=\count308
+\lst@lineno=\count309
+\lst@maxwidth=\dimen171
+
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/02/21 1.10 (Carsten Heinz)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/02/21 1.10 (Carsten Heinz)
+\c@lstnumber=\count310
+\lst@skipnumbers=\count311
+\lst@framebox=\box65
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/02/21 1.10 listings configuration
+))
+Package: listings 2024/02/21 1.10 (Carsten Heinz)
+
+Package fontspec Info: Verdana scale = 0.7.
+
+
+Package fontspec Info: Verdana scale = 0.7.
+
+
+Package fontspec Info: Verdana scale = 0.7.
+
+
+Package fontspec Info: Verdana/B scale = 0.7.
+
+
+Package fontspec Info: Verdana/B scale = 0.7.
+
+
+Package fontspec Info: Verdana/I scale = 0.7.
+
+
+Package fontspec Info: Verdana/I scale = 0.7.
+
+
+Package fontspec Info: Verdana/BI scale = 0.7.
+
+
+Package fontspec Info: Verdana/BI scale = 0.7.
+
+
+Package fontspec Info: Font family 'Verdana(0)' created for font 'Verdana'
+(fontspec)             with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space,Scale=0.7].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/B/OT:script=latn;language=dflt;+smcp;
+"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/I/OT:script=latn;language=dflt;+smcp;
+"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/BI/OT:script=latn;language=dflt;+smcp
+;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/02/21 1.10 listings language file
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2024/02/21 1.10 listings language file
+)) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
+1.
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 31.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 31.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 31.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 31.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 31.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 31.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 31.
+LaTeX Font Info:    Redeclaring math accent \check on input line 31.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 31.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 31.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 31.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 31.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 3
+1.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/Verdana(0)/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/Verdana(0)/b/n on input line 31.
+LaTeX Info: Redefining \th on input line 31.
+Package hyperref Info: Link coloring OFF on input line 31.
+ (./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count312
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 33.
+
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 33--33
+[] 
+ []
+
+
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 33--33
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+
+ []
+
+[1] (./ЛистЗадания.tex [2] (./main.lop)
+\tf@lop=\write5
+\openout5 = `main.lop'.
+
+
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 95--106
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--106
+
+ []
+
+) (./Реферат.tex [3]
+\c=\count313
+\last=\count314
+\pnul=\count315
+\c=\count316
+\last=\count317
+\pnul=\count318
+\c=\count319
+\last=\count320
+\pnul=\count321
+\c=\count322
+\last=\count323
+\pnul=\count324
+
+Underfull \hbox (badness 7344) in paragraph at lines 9--10
+[]\TU/TimesNewRoman(0)/m/n/14.4 Целью выпускной квалификационной работы являетс
+я создание
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 13--14
+[]\TU/TimesNewRoman(0)/m/n/14.4 При разработке программно-информационной систем
+ы использова-
+ []
+
+
+Underfull \hbox (badness 4673) in paragraph at lines 13--14
+\TU/TimesNewRoman(0)/m/n/14.4 лись язык программирования Python, фреймворк PySi
+de6, библиотеки
+ []
+
+[4]
+\c=\count325
+\last=\count326
+\pnul=\count327
+\c=\count328
+\last=\count329
+\pnul=\count330
+\c=\count331
+\last=\count332
+\pnul=\count333
+\c=\count334
+\last=\count335
+\pnul=\count336
+) [5] (./main.toc [6] [7] [8])
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ (./main.lpc)
+\tf@lpc=\write7
+\openout7 = `main.lpc'.
+
+ (./Обозначения.tex
+Underfull \hbox (badness 1715) in paragraph at lines 1--1
+\TU/TimesNewRoman(0)/m/n/14.4 Диаграмма прецедентов (Графический материал / Диа
+грамма прецеден-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+[9]
+Underfull \hbox (badness 4072) in paragraph at lines 27--28
+[]\TU/TimesNewRoman(0)/m/n/14.4 GUI – графический пользовательский интерфейс (G
+raphical User
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+[]\TU/TimesNewRoman(0)/m/n/14.4 API – интерфейс прикладного программирования (A
+pplication
+ []
+
+) (./Введение.tex [10] [11]
+\c=\count337
+\last=\count338
+\pnul=\count339
+) (./Анализ.tex [12] [13] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]\TU/TimesNewRoman(0)/b/n/14.4 1.2.2 Контроль с использованием специализирован
+ных
+ []
+
+[15] [16] [17] [18] [19]
+Underfull \hbox (badness 2050) in paragraph at lines 212--213
+[]\TU/TimesNewRoman(0)/m/n/14.4 Семантическая сегментация предполагает классифи
+кацию каждого
+ []
+
+[20] [21] [22]) (./ТехЗадание.tex [23]
+Underfull \hbox (badness 1043) in paragraph at lines 8--9
+[]\TU/TimesNewRoman(0)/m/n/14.4 Целью разработки является создание программно-и
+нформационной
+ []
+
+[24] [25] [26]
+File: images/DiagramVariant.eps Graphic file (type eps)
+<images/DiagramVariant.eps>
+ [27] [28]
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.2 Вариант использования «Настройка параметр
+ов
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.4 Вариант использования «Просмотр результат
+ов
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.8 Вариант использования «Загрузка сохранённ
+ых
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.10 Вариант использования «Переключение темы
+
+ []
+
+[32]
+LaTeX Font Info:    Font shape `TU/Verdana(0)/m/n' will be
+(Font)              scaled to size 10.07994pt on input line 343.
+ [33]) (./ТехПроект.tex [34]
+Underfull \hbox (badness 1320) in paragraph at lines 11--12
+[]\TU/TimesNewRoman(0)/m/n/14.4 Обработка изображений осуществляется последоват
+ельно: входные
+ []
+
+[35] [36] [37] [38]
+Underfull \hbox (badness 3312) in paragraph at lines 105--106
+[]\TU/TimesNewRoman(0)/m/n/14.4 Использование NumPy обеспечивает эффективное вз
+аимодействие
+ []
+
+[39]
+Underfull \hbox (badness 1237) in paragraph at lines 158--159
+[]\TU/TimesNewRoman(0)/m/n/14.4 Несмотря на компактность, YOLOv8n демонстрирует
+ достаточную
+ []
+
+[40]
+Underfull \hbox (badness 1769) in paragraph at lines 180--181
+[]\TU/TimesNewRoman(0)/m/n/14.4 Neck реализован как \TU/Verdana(0)/m/n/14.4 PAN
+-FPN \TU/TimesNewRoman(0)/m/n/14.4 (Path Aggregation Network + Feature
+ []
+
+[41]
+File: images/yolov8.eps Graphic file (type eps)
+<images/yolov8.eps>
+
+Underfull \hbox (badness 2073) in paragraph at lines 204--205
+[]\TU/TimesNewRoman(0)/m/n/14.4 Процесс обучения выполнялся с использованием от
+дельного про-
+ []
+
+[42] (c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/02/21 1.10 listings language file
+) [43] [44]
+[45]
+File: images/DiagramComp.eps Graphic file (type eps)
+<images/DiagramComp.eps>
+ [46] [47] [48] [49] [50] [51]
+Underfull \hbox (badness 1270) in paragraph at lines 546--547
+[]\TU/TimesNewRoman(0)/m/n/14.4 Полученные показатели отображаются пользователю
+ в интерфейсе
+ []
+
+[52]
+Underfull \hbox (badness 1237) in paragraph at lines 552--553
+\TU/TimesNewRoman(0)/m/n/14.4 ка PySide6 и представляет собой настольное прилож
+ение с событийно-
+ []
+
+File: images/Maket.eps Graphic file (type eps)
+<images/Maket.eps>
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 577--578
+[]\TU/TimesNewRoman(0)/m/n/14.4 Проверка работы программно-информационной систе
+мы должна
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--583
+[]\TU/TimesNewRoman(0)/m/n/14.4 Проверку обработки изображений нейросетевой мод
+елью
+ []
+
+[54]
+Underfull \hbox (badness 2635) in paragraph at lines 593--594
+[]\TU/TimesNewRoman(0)/m/n/14.4 Устойчивую работу системы при последовательной 
+обработке
+ []
+
+) (./РабочийПроект.tex [55]
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\TU/TimesNewRoman(0)/m/n/14.4 Модуль «main.py» является точкой входа в програ
+ммно-
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 8--9
+\TU/TimesNewRoman(0)/m/n/14.4 информационную систему обнаружения дефектов дорож
+ного покрытия.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Точка входа в приложение. Вы-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+\TU/TimesNewRoman(0)/m/n/14.4 полняет создание объекта класса
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+\TU/TimesNewRoman(0)/m/n/14.4 QApplication, создание экземпляра
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+\TU/TimesNewRoman(0)/m/n/14.4 класса MainWindow, отображение
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 22--22
+\TU/TimesNewRoman(0)/m/n/14.4 главного окна программы и запуск
+ []
+
+[56]
+Underfull \hbox (badness 1221) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 настройку пользовательско-
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Настройка основных пара-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Загрузка пользовательских
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 настроек приложения и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 настройка каталога для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Создание экзем-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 пляров классов
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 ThemeManager, FileManager
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Создание экземпляра клас-
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 ответствующим обработчи-
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Создание и настройка эле-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 ментов пользовательского
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 интерфейса главного окна
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 и элементов отображе-
+ []
+
+
+Underfull \hbox (badness 7415) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 ния статистики обработки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/14.4 current, total,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отображение стартового
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 из рабочей области прило-
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Обновление отображаемого
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 ных изображений и запуск
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 формирования миниатюр
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Сохранение обработанных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 изображений и отчёта в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 выбранный пользователем
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Управление отображением
+ []
+
+
+Underfull \hbox (badness 2837) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 панели входных изображе-
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 сти обнаружения объектов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 количеству обнаруженных
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Открытие окна просмотра
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Открытие окна просмотра
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выполнение обнаруже-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 ния дефектов дорожного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 покрытия на выбранных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 изображениях с исполь-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\TU/TimesNewRoman(0)/m/n/14.4 зованием нейросетевой
+ []
+
+[57] [58] [59]
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+[]|\TU/TimesNewRoman(0)/m/n/14.4 model,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+\TU/TimesNewRoman(0)/m/n/14.4 conf_threshold,
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 123--123
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Конструктор класса. Выполняет со-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+\TU/TimesNewRoman(0)/m/n/14.4 хранение экземпляра нейросетевой
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 123--123
+\TU/TimesNewRoman(0)/m/n/14.4 модели, установку порога обнару-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+\TU/TimesNewRoman(0)/m/n/14.4 жения объектов и максимального
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 123--123
+\TU/TimesNewRoman(0)/m/n/14.4 размера обрабатываемого изображе-
+ []
+
+
+Underfull \hbox (badness 6094) in paragraph at lines 123--123
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Установка нового значения порога
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+[]|\TU/TimesNewRoman(0)/m/n/14.4 images,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+\TU/TimesNewRoman(0)/m/n/14.4 results_dir,
+ []
+
+
+Overfull \hbox (7.97235pt too wide) in paragraph at lines 123--123
+\TU/TimesNewRoman(0)/m/n/14.4 progress_callback,
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 123--123
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выполнение обнаружения дефектов
+ []
+
+
+Underfull \hbox (badness 4518) in paragraph at lines 123--123
+\TU/TimesNewRoman(0)/m/n/14.4 штабирование изображений, запуск
+ []
+
+
+Underfull \hbox (badness 7522) in paragraph at lines 123--123
+\TU/TimesNewRoman(0)/m/n/14.4 нейросетевой модели, подсчёт об-
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 123--123
+\TU/TimesNewRoman(0)/m/n/14.4 вращает список обработанных фай-
+ []
+
+[60]
+Underfull \hbox (badness 1783) in paragraph at lines 170--170
+\TU/TimesNewRoman(0)/m/n/14.4 бора изображений и передача
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 170--170
+\TU/TimesNewRoman(0)/m/n/14.4 выбранных файлов в главное
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Сохранение обработанных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+\TU/TimesNewRoman(0)/m/n/14.4 изображений в выбранный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+\TU/TimesNewRoman(0)/m/n/14.4 каталог. Выполняет провер-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+\TU/TimesNewRoman(0)/m/n/14.4 ку существования файлов,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+\TU/TimesNewRoman(0)/m/n/14.4 обработку конфликтов имён
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+\TU/TimesNewRoman(0)/m/n/14.4 и формирование отчёта по
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 170--170
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Создание текстового отчёта о
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 170--170
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выбор каталога для хранения
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+\TU/TimesNewRoman(0)/m/n/14.4 временных результатов обра-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Очистка каталога временных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+\TU/TimesNewRoman(0)/m/n/14.4 результатов обработки после
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 170--170
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Открытие ранее сохранённых
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+[]|\TU/TimesNewRoman(0)/m/n/14.4 folder,
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 170--170
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Чтение и анализ файла отчё-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+\TU/TimesNewRoman(0)/m/n/14.4 та, расположенного по пути
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+\TU/Verdana(0)/m/n/14.4 report_path\TU/TimesNewRoman(0)/m/n/14.4 . Формирует ст
+рук-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+\TU/TimesNewRoman(0)/m/n/14.4 туру данных, содержащую
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 170--170
+\TU/TimesNewRoman(0)/m/n/14.4 сведения о результатах обра-
+ []
+
+[61]
+Underfull \hbox (badness 2922) in paragraph at lines 211--211
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Конструктор класса. Сохраняет
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 211--211
+\TU/TimesNewRoman(0)/m/n/14.4 ки обработанных изображений.
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 211--211
+\TU/TimesNewRoman(0)/m/n/14.4 Выполняет размещение миниа-
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 211--211
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Загрузка обработанных изобра-
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 211--211
+\TU/TimesNewRoman(0)/m/n/14.4 жений, создание их уменьшен-
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 211--211
+\TU/TimesNewRoman(0)/m/n/14.4 для отображения в галерее ре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Очистка элементов пользова-
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 211--211
+\TU/TimesNewRoman(0)/m/n/14.4 тельского интерфейса, располо-
+ []
+
+
+Overfull \hbox (3.16566pt too wide) in paragraph at lines 211--211
+[]|\TU/TimesNewRoman(0)/m/n/14.4 toggle_input_visibility| 
+ []
+
+[62]
+Underfull \hbox (badness 1603) in paragraph at lines 248--248
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Конструктор класса. Выполняет со-
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 248--248
+\TU/TimesNewRoman(0)/m/n/14.4 настройку элементов интерфейса и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Загрузка и отображение текущего
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 248--248
+\TU/TimesNewRoman(0)/m/n/14.4 штабированием под размеры окна
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 248--248
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Переход к предыдущему изображе-
+ []
+
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 282--282
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Конструктор класса. Сохраняет
+ []
+
+[64]
+Underfull \hbox (badness 3849) in paragraph at lines 290--291
+[]\TU/TimesNewRoman(0)/m/n/14.4 После запуска программы пользователю отображает
+ся стартовый
+ []
+
+File: images/startscr.png Graphic file (type bmp)
+<images/startscr.png>
+[65] [66] [67]
+File: images/load_images.png Graphic file (type bmp)
+<images/load_images.png>
+ [68]
+File: images/conf.png Graphic file (type bmp)
+<images/conf.png>
+ [69] [70]
+File: images/detection.png Graphic file (type bmp)
+<images/detection.png>
+File: images/gallery.png Graphic file (type bmp)
+<images/gallery.png>
+ [71]
+File: images/sort.png Graphic file (type bmp)
+<images/sort.png>
+ [72]
+File: images/saved.png Graphic file (type bmp)
+<images/saved.png>
+ [73]
+File: images/open_results.png Graphic file (type bmp)
+<images/open_results.png>
+ [74]
+File: images/clear_bef.png Graphic file (type bmp)
+<images/clear_bef.png>
+ [75]
+File: images/clear_aft.png Graphic file (type bmp)
+<images/clear_aft.png>
+File: images/change_dir.png Graphic file (type bmp)
+<images/change_dir.png>
+ [76]
+File: images/theme.png Graphic file (type bmp)
+<images/theme.png>
+ [77]
+Excluding 'comment' comment.) (./Заключение.tex [78]) (./СписокИсточников.tex
+[79] [80] [81]
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[]\TU/TimesNewRoman(0)/m/n/14.4 Python Documentation : официальный сайт. – URL:
+
+ []
+
+[82]
+Underfull \hbox (badness 3098) in paragraph at lines 33--34
+[]\TU/TimesNewRoman(0)/m/n/14.4 Qingliang, Z. Qt 5 and OpenCV 4 Computer Vision
+ Projects /
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 33--34
+\TU/TimesNewRoman(0)/m/n/14.4 Z. Qingliang. – Birmingham : Packt Publishing, 20
+19. – 350 с. – ISBN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[]\TU/TimesNewRoman(0)/m/n/14.4 Qt for Python : официальный сайт. – URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+\TU/TimesNewRoman(0)/m/n/14.4 https://doc.qt.io/qtforpython-6/ (дата обращения:
+ 16.04.2026). – Текст :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+[]\TU/TimesNewRoman(0)/m/n/14.4 Ultralytics YOLO : официальный сайт. – URL:
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 41--42
+\TU/TimesNewRoman(0)/m/n/14.4 https://docs.ultralytics.com (дата обращения: 10.
+04.2026). – Текст : элек-
+ []
+
+[83]
+Underfull \hbox (badness 1005) in paragraph at lines 45--46
+\TU/TimesNewRoman(0)/m/n/14.4 / Ч. Аггарвал. – Санкт-Петербург : Диалектика, 20
+20. – 754 с. – ISBN
+ []
+
+[84]
+Underfull \hbox (badness 1552) in paragraph at lines 53--54
+[]\TU/TimesNewRoman(0)/m/n/14.4 Fitzpatrick, M. Create GUI Applications with Py
+thon & Qt / M.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+[]\TU/TimesNewRoman(0)/m/n/14.4 Jaganmohan, G. PySide GUI Application Developme
+nt / G.
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 54--55
+\TU/TimesNewRoman(0)/m/n/14.4 Jaganmohan. – Birmingham : Packt Publishing, 2016
+. – 239 с. – ISBN
+ []
+
+) (./Плакаты.tex [85] [86]
+File: images/Сведения.eps Graphic file (type eps)
+<images/Сведения.eps>
+File: images/ЦелиИЗадачи.eps Graphic file (type eps)
+<images/ЦелиИЗадачи.eps>
+ [87
+
+]
+File: images/ДиагрПрец.eps Graphic file (type eps)
+<images/ДиагрПрец.eps>
+ [88]
+File: images/ДиагрКомп.eps Graphic file (type eps)
+<images/ДиагрКомп.eps>
+ [89]
+File: images/Интерфейс.png Graphic file (type bmp)
+<images/Интерфейс.png>
+ [90]
+File: images/Заключение.eps Graphic file (type eps)
+<images/Заключение.eps>
+ [91] [92]) (./Код.tex
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 4.
+
+(./detector.py [93
+
+] [94]) (./main_window.py [95] [96] [97] [98] [99] [100]
+[101] [102] [103]) [104]
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 12--27
+[] 
+ []
+
+) [105] (./main.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: BBC98C050C3C1BC4EC9C23C6632DF33D;29655.
+ ) 
+Here is how much of TeX's memory you used:
+ 17091 strings out of 474772
+ 327483 string characters out of 5761269
+ 2152842 words of memory out of 5000000
+ 38964 multiletter control sequences out of 15000+600000
+ 559598 words of font info for 72 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 99i,11n,110p,704b,2426s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (105 pages).
